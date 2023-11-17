@@ -1,0 +1,12 @@
+INSERT INTO Person (id, name, email_Address) VALUES (1,'Shurun','shurun@gmail.com');
+INSERT INTO Person (id, name, email_Address) VALUES (2,'Xiang','xiang@gmail.com');
+INSERT INTO Person (id, name, email_Address) VALUES (3,'pang','pang@gmail.com');
+INSERT INTO Person (id, name, email_Address) VALUES (4,'clara','clara@gmail.com');
+-- INSERT INTO Car (model, askingPrice, bodyStyle, owner_id) VALUES ('Honda Civic', 19000, 'Sedan', 1);
+-- INSERT INTO Car (model, askingPrice, bodyStyle, owner_id) VALUES ('Honda Civic', 19500, 'Coupe', 2);
+-- INSERT INTO Car (model, askingPrice, bodyStyle, owner_id) VALUES ('Toyota Camry', 21000, 'Sedan',2);
+-- INSERT INTO Car (model, askingPrice, bodyStyle, owner_id) VALUES ('Ford Mustang', 36000, 'Convertible', 3);
+-- INSERT INTO Truck (model, askingPrice, payloadCapacity, owner_id) VALUES ('Ford F-150', 41000, 2100, 4);
+-- INSERT INTO Truck (model, askingPrice, payloadCapacity, owner_id) VALUES ('Chevrolet Silverado', 46000, 2600, 4);
+-- INSERT INTO Truck (model, askingPrice, payloadCapacity, owner_id) VALUES ('RAM 1500', 43000, 2400, 2);
+-- INSERT INTO Truck (model, askingPrice, payloadCapacity, owner_id) VALUES ('Ford F-150', 42000, 2200, 1);
